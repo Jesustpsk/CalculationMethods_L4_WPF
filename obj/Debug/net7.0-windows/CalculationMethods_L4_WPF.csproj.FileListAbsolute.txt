@@ -19,3 +19,23 @@ D:\Учеба\Вычислительные методы\CalculationMethods_L4_WP
 D:\Учеба\Вычислительные методы\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF.pdb
 D:\Учеба\Вычислительные методы\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF.genruntimeconfig.cache
 D:\Учеба\Вычислительные методы\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\ref\CalculationMethods_L4_WPF.dll
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\bin\Debug\net7.0-windows\CalculationMethods_L4_WPF.exe
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\bin\Debug\net7.0-windows\CalculationMethods_L4_WPF.deps.json
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\bin\Debug\net7.0-windows\CalculationMethods_L4_WPF.runtimeconfig.json
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\bin\Debug\net7.0-windows\CalculationMethods_L4_WPF.dll
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\bin\Debug\net7.0-windows\CalculationMethods_L4_WPF.pdb
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF_MarkupCompile.cache
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF_MarkupCompile.lref
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF.g.resources
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF.AssemblyInfo.cs
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF.dll
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\refint\CalculationMethods_L4_WPF.dll
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF.pdb
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\CalculationMethods_L4_WPF.genruntimeconfig.cache
+C:\Users\Я\Desktop\test\CalculationMethods_L4_WPF\obj\Debug\net7.0-windows\ref\CalculationMethods_L4_WPF.dll
