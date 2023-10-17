@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\Вычислительные методы\\CalculationMethods_L4_WPF\\CalculationMethods_L4_WPF.csproj": {}
+    "C:\\Users\\Я\\Desktop\\test\\CalculationMethods_L4_WPF\\CalculationMethods_L4_WPF.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\Вычислительные методы\\CalculationMethods_L4_WPF\\CalculationMethods_L4_WPF.csproj": {
+    "C:\\Users\\Я\\Desktop\\test\\CalculationMethods_L4_WPF\\CalculationMethods_L4_WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\Вычислительные методы\\CalculationMethods_L4_WPF\\CalculationMethods_L4_WPF.csproj",
+        "projectUniqueName": "C:\\Users\\Я\\Desktop\\test\\CalculationMethods_L4_WPF\\CalculationMethods_L4_WPF.csproj",
         "projectName": "CalculationMethods_L4_WPF",
-        "projectPath": "D:\\Учеба\\Вычислительные методы\\CalculationMethods_L4_WPF\\CalculationMethods_L4_WPF.csproj",
-        "packagesPath": "C:\\Users\\dmkuz\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\Вычислительные методы\\CalculationMethods_L4_WPF\\obj\\",
+        "projectPath": "C:\\Users\\Я\\Desktop\\test\\CalculationMethods_L4_WPF\\CalculationMethods_L4_WPF.csproj",
+        "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Я\\Desktop\\test\\CalculationMethods_L4_WPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dmkuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\nuget_packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/tkjTXJTC1Zpa2mf5QnNrSQbR6ae72KO8OopoYKIBkLQndxKMq1/api": {}
         },
         "frameworks": {
           "net7.0-windows7.0": {
@@ -62,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
