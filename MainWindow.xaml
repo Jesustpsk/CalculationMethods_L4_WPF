@@ -18,6 +18,120 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="0.1*"/>
         </Grid.RowDefinitions>
+        <Label Grid.Row="1" Grid.Column="1" Width="100" Height="40"
+               Margin="0 0 0 150" FontSize="20">Input</Label>
         
+        
+        <Label Grid.Row="1" Grid.Column="1" Width="100" Height="40"
+               Margin="0 0 505 70">A = </Label>
+        
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 0 500 80" Name="TB_A1_1"
+                 Text="2.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 0 390 80" Name="TB_A2_1"
+                 Text="-4.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 0 280 80" Name="TB_A3_1"
+                 Text="-3.25"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 0 170 80" Name="TB_A4_1"
+                 Text="1.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 0 60 80" Name="TB_A5_1"
+                 Text=""></TextBox>
+        
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 0 500 20" Name="TB_A1_2"
+                 Text="3.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 0 390 20" Name="TB_A2_2"
+                 Text="-3.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 0 280 20" Name="TB_A3_2"
+                 Text="-4.3"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 0 170 20" Name="TB_A4_2"
+                 Text="8.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 0 60 20" Name="TB_A5_2"
+                 Text=""></TextBox>
+        
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 40 500 0" Name="TB_A1_3"
+                 Text="1.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 40 390 0" Name="TB_A2_3"
+                 Text="-5.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 40 280 0" Name="TB_A3_3"
+                 Text="3.3"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 40 170 0" Name="TB_A4_3"
+                 Text="-20.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 40 60 0" Name="TB_A5_3"
+                 Text=""></TextBox>
+        
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 100 500 0" Name="TB_A1_4"
+                 Text="2.5"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 100 390 0" Name="TB_A2_4"
+                 Text="-4.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 100 280 0" Name="TB_A3_4"
+                 Text="2.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 100 170 0" Name="TB_A4_4"
+                 Text="-3.0"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 100 60 0" Name="TB_A5_4"
+                 Text=""></TextBox>
+        
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 160 500 0" Name="TB_A1_5"
+                 Text=""></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 160 390 0" Name="TB_A2_5"
+                 Text=""></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 160 280 0" Name="TB_A3_5"
+                 Text=""></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 160 170 0" Name="TB_A4_5"
+                 Text=""></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="0 160 60 0" Name="TB_A5_5"
+                 Text=""></TextBox>
+        
+        
+        <Label Grid.Row="1" Grid.Column="1" Width="100" Height="40"
+               Margin="295 0 0 70">b = </Label>
+        
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="300 0 0 80" Name="TB_b1"
+                 Text="4.84"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="300 0 0 20" Name="TB_b2"
+                 Text="8.89"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="300 40 0 0" Name="TB_b3"
+                 Text="-14.01"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="300 100 0 0" Name="TB_b4"
+                 Text="-20.29"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Width="50" Height="25"
+                 Margin="300 160 0 0" Name="TB_b5"
+                 Text=""></TextBox>
+        
+        
+        <TextBox Grid.Row="2" Grid.Column="1" Height="180" Width="630"
+                 Margin="0 0 70 0"
+                 Name="TbOutput" VerticalScrollBarVisibility="Auto"
+                 TextWrapping="Wrap"></TextBox>
+        <Button Grid.Row="2" Grid.Column="1" Height="40" Width="60"
+                Margin="640 0 0 140"
+                Click="ButtonBase_OnClick">Start</Button>
     </Grid>
 </Window>

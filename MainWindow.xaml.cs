@@ -24,5 +24,10 @@ namespace CalculationMethods_L4_WPF
         {
             InitializeComponent();
         }
+
+        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
